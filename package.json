@@ -1,0 +1,6 @@
+{
+  "name": "hash-circuits",
+  "description": "This repository contains circom implementations of popular hash functions",
+  "author": "Balazs Komuves",
+  "license": "MIT",
+}
